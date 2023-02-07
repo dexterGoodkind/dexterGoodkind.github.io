@@ -1,5 +1,5 @@
 # dexterGoodkind.github.io
-This website showcases some of the projects from [Dexter Goodkind's Github](https://github.com/dexterGoodkind) (visit this page to see some of the repositories that aren't showcased here). 
+This website showcases some of the projects from [Dexter Goodkind's Github](https://github.com/dexterGoodkind) (visit this page to see more repositories,  which aren't showcased here). 
 
 # Ray casting game
 [Click here](https://dexterGoodkind.github.io/ray-casting-game) to play the ray casting game. 
